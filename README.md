@@ -1,7 +1,7 @@
 # Crypt — v1.0.1
-### WWDC26 Golden Gate Vault style Monero monitor & miner
+### Monero monitor & miner
 
-Clean as hell, built like Apple made it. Liquid Glass, no fake window chrome.
+Clean as hell, built like Apple made it.
 
 **By dodgybill**
 
