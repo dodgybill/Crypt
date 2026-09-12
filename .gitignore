@@ -1,0 +1,6 @@
+.DS_Store
+*.icns
+icon.iconset
+/tmp/
+Crypt.app
+Vault.icns
