@@ -8,8 +8,8 @@ Clean as hell, built like Apple made it. Liquid Glass, no fake window chrome.
 ![Vault Logo](Resources/vault.png)
 
 ## Features
-- **Overview**: Peek at network (1.72 GH/s, v14), pruning summary with live speed + ETA, mining performance preview
-- **Pruning**: Large progress (2256304/3760540), blocks/sec calculation, ETA, detailed stats + live log tail. Auto-hides at 100%
+- **Overview**: Peek at network, pruning summary with live speed + ETA, mining performance preview
+- **Pruning**: Large progress, blocks/sec calculation, ETA, detailed stats + live log tail. Auto-hides at 100%
 - **Mining**: Pure performance dashboard — hashrate 1m/5m/15m, shares, difficulty, p2pool, CPU temp, threads, sparkline graph. Wallet address REQUIRED before Mine unlocks
 - **Logs**: Full-height monospaced viewer
 
